@@ -25,8 +25,8 @@ Stakeholder Management • Agile Delivery • KPI-Driven Execution
 
 ## 📂 Case Studies
 - AI-Enabled Branch Banking Platform — Wells Fargo
-- Credit Risk Regulatory Reporting UI — Wipro
-- Collateralized Loan Portfolio Analytics — Société Générale
+- Collateralized Loan Portfolio Analytics  — Wipro
+- Credit Risk Regulatory Reporting UI— Société Générale
 - Wealth Management Performance Portal — Infosys
 - Credit Risk Collection Platform — Cognizant
 
