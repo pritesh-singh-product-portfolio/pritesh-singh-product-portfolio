@@ -23,7 +23,8 @@ Stakeholder Management • Agile Delivery • KPI-Driven Execution
 
 ---
 
-## 📂 Case Studies
+## 📂 Case Studies 
+Implemented Solutions for various banks: **Wells Fargo, Standard Chartered, Société Générale, Citi bank, etc.**
 - AI-Enabled Branch Banking Platform — Wells Fargo
 - Collateralized Loan Portfolio Analytics  — Wipro
 - Credit Risk Regulatory Reporting UI— Société Générale
